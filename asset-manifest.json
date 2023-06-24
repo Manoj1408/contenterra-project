@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contenterra-project/static/css/main.ec550f48.css",
+    "main.js": "/contenterra-project/static/js/main.db5307ce.js",
+    "index.html": "/contenterra-project/index.html",
+    "main.ec550f48.css.map": "/contenterra-project/static/css/main.ec550f48.css.map",
+    "main.db5307ce.js.map": "/contenterra-project/static/js/main.db5307ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec550f48.css",
+    "static/js/main.db5307ce.js"
+  ]
+}
