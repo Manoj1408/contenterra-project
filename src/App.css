@@ -1,7 +1,10 @@
-.App {
-  text-align: center;
+ .App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +38,21 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.card{
+  /* cursor: pointer; */
+  width: 80vw;
+  background-color: bisque;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+  transition: transform .2s;
 }
+
+.card:hover{
+  /* scale: 1.15; */
+  transform: scale(1.10);
+  margin: 40px;
+}
+
